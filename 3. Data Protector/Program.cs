@@ -99,8 +99,6 @@ namespace _3._Data_Protector
                         secondResult.Add(firstSeq[j]);
                         firstResult.Add(secondSeq[j]);
                     }
-
-
                 }
 
                 firstSeq = firstResult;
